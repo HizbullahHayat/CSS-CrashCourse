@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+}
+
+.red {
+  /* background: #c71226; */
+  height: 100px;
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 14px;
+  height: 400px;
+  background-size: cover;
+  margin: 0 auto;
+  background: linear-gradient(orange,blue, green, pink);
+}
+
+.blue {
+  /* background: #0d1b88; */
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 14px;
+  height: 400px;
+  background-size: cover;
+  margin: 0 auto;
+  background: linear-gradient(pink, red, black);
+}
+
+.green {
+  /* background: #397327; */
+  height: 100px;
+  width: 400px;
+  border: 6px solid white;
+  border-radius: 14px;
+  height: 400px;
+  background-size: cover;
+  margin: 0 auto;
+  background: linear-gradient(pink,blue);
+}
+
+

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'God Father by Hizbullah';
+  src: url('./TheGodfather-v2.ttf');
+}
+
+body {
+  background-image: url("./bryan-goff-RF4p4rTM-2s-unsplash.jpg");
+  color: rgb(0, 0, 0);
+  background-size: cover;
+  font-family: 'God Father by Hizbullah';
+}
+.style--body{
+    text-align: center;
+}
+.btn--style{
+    color: black;
+    border: none;
+    background-color: white;
+    padding: 2px 4px 2px 4px;
+    font-family: inherit;
+}

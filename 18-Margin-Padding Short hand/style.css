@@ -1,0 +1,29 @@
+.red--circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #BC002D;
+
+    margin-top: 40px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 100px;
+}
+/* Short hand technique(remember analouge clock) */
+.pink--circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #e42c91;
+
+    margin: 40px 0 0 100px;
+}
+/* Series top-bottom(y-axis) to right left(x-axis) */
+.black--circle{
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    background: #040e08;
+
+    margin: 40px auto;
+}
